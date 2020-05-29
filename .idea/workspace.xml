@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60992525-31bd-49bd-a2f9-ea54671b9473" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../NU-CHI-E-CJS1-FT-09-2019-E-C-COG/02-unit/02-module-queues-edge-caching/practice-projects/glossary-project/definition-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../NU-CHI-E-CJS1-FT-09-2019-E-C-COG/02-unit/02-module-queues-edge-caching/practice-projects/glossary-project/eureka-server" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../NU-CHI-E-CJS1-FT-09-2019-E-C-COG/02-unit/02-module-queues-edge-caching/practice-projects/hotel-booking-project/eureka-server" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../NU-CHI-E-CJS1-FT-09-2019-E-C-COG/02-unit/02-module-queues-edge-caching/practice-projects/hotel-booking-project/rewards-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../NU-CHI-E-CJS1-FT-09-2019-E-C-COG/02-unit/02-module-queues-edge-caching/practice-projects/hotel-booking-project/room-service" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="1caaWUfrxgWEG05QjIceBfGOqQK" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60992525-31bd-49bd-a2f9-ea54671b9473" name="Default Changelist" comment="" />
+      <created>1590769189902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590769189902</updated>
+    </task>
+    <servers />
+  </component>
+</project>
