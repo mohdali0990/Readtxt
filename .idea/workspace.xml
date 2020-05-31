@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60992525-31bd-49bd-a2f9-ea54671b9473" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Customer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,29 +82,40 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="447" y="25" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1590770102702" />
-    <state width="1237" height="172" key="GridCell.Tab.0.bottom" timestamp="1590872359589">
+    <state width="1237" height="212" key="GridCell.Tab.0.bottom" timestamp="1590951225507">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="172" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590872359589" />
-    <state width="1237" height="172" key="GridCell.Tab.0.center" timestamp="1590872359589">
+    <state width="1237" height="212" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590951225507" />
+    <state width="1237" height="212" key="GridCell.Tab.0.center" timestamp="1590951225507">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="172" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1590872359589" />
-    <state width="1237" height="172" key="GridCell.Tab.0.left" timestamp="1590872359589">
+    <state width="1237" height="212" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1590951225507" />
+    <state width="1237" height="212" key="GridCell.Tab.0.left" timestamp="1590951225507">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="172" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1590872359589" />
-    <state width="1237" height="172" key="GridCell.Tab.0.right" timestamp="1590872359589">
+    <state width="1237" height="212" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1590951225507" />
+    <state width="1237" height="212" key="GridCell.Tab.0.right" timestamp="1590951225507">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="172" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1590872359589" />
+    <state width="1237" height="212" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1590951225507" />
     <state x="151" y="0" key="SettingsEditor" timestamp="1590872192464">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="151" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1590872192464" />
-    <state x="339" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1590872326235">
+    <state x="339" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1590873226971">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="339" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1590872326235" />
+    <state x="339" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1590873226971" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Runner.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
